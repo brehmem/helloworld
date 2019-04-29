@@ -1,0 +1,15 @@
+{
+  "name": "brehmem/helloworld",
+  "homepage": "https://github.com/brehmem/helloworld",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mark",
+      "email": "mark.brehme@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">= 5.6"
+  
+  }
+}
