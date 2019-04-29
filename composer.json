@@ -1,5 +1,14 @@
 {
-	"name" : "Brehme",
+	"name" : "brehmem",
+	"authors" : [{
+			"name" : "brehmem",
+			"email" : "mark.brehme@gmail.com",
+			"homepage" : "https://github.com/brehmem/helloworld"
+		}
+	],
+	"support" : {
+		"source" : "https://github.com/brehmem/helloworld"
+	},
 	"keywords" : [
 		"helloworld"
 	]
