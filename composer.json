@@ -7,8 +7,8 @@
 		}
 	],
 	"license": "proprietary",
-  "type": "package",
-  "package": {
+	"type": "package",
+	"package": {
           "name": "brehmem/helloworld",
           "version":"dev-master",
           "source": {
@@ -21,7 +21,8 @@
 		"source" : "https://github.com/brehmem/helloworld"
 	},
 	"keywords" : [
-		"helloworld","brehmem"
+		"helloworld",
+		"brehmem"
 	],
 	  "require": {
         "php": "^5.4"
