@@ -6,10 +6,25 @@
 			"homepage" : "https://github.com/brehmem/helloworld"
 		}
 	],
+	"license": "proprietary",
+  "type": "package",
+  "package": {
+          "name": "brehmem/helloworld",
+          "version":"dev-master",
+          "source": {
+              "url": "https://github.com/brehmem/helloworld.git",
+              "type": "git",
+              "reference":"dev-master"
+            }
+	},
 	"support" : {
 		"source" : "https://github.com/brehmem/helloworld"
 	},
 	"keywords" : [
-		"helloworld"
-	]
+		"helloworld","brehmem"
+	],
+	  "require": {
+        "php": "^5.4"
+	},
+	 "minimum-stability": "dev"
 }
