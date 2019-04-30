@@ -10,11 +10,11 @@
 	"type": "package",
 	"package": {
           "name": "brehmem/helloworld",
-          "version":"dev-master",
+          "version":"dev-head",
           "source": {
               "url": "https://github.com/brehmem/helloworld.git",
               "type": "git",
-              "reference":"dev-master"
+              "reference":"dev-head"
             }
 	},
 	"support" : {
